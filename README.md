@@ -2,7 +2,7 @@
 # Projeto de Testes Automatizados Mobile Android | Ruby | Cucumber | Rspec | Appium :test_tube:
 ---
 # :information_source: Introdução
-Esse projeto "testes-automatizados-mobile-training-wheels-protocol_ruby" é executado em um ambiente de testes na apk do aplicativo mobile Android ["Training Wheels Protocol"](https://drive.google.com/file/d/1wtuh1SyKWbhDRpUejxMvfzH4Fs9Cmo87/view?usp=sharing), com o objetivo de me aprofundar um pouco mais nos estudos sobre testes automatizados mobile em Ruby nas ferramentas Cucumber, Rspec e Appium.
+Esse projeto "testes-automatizados-mobile-training-wheels-protocol_ruby" é executado em um ambiente de testes na apk do aplicativo mobile Android ["Training Wheels Protocol"](https://drive.google.com/file/d/1wtuh1SyKWbhDRpUejxMvfzH4Fs9Cmo87/view?usp=sharing), desenvolvido para o curso "Introdução ao Appium com Ruby e Cucumber" da "QANinja Academy" e com o objetivo de me aprofundar um pouco mais nos estudos sobre testes automatizados mobile em Ruby nas ferramentas Cucumber, Rspec e Appium.
 
 
 ---
