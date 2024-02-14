@@ -1,0 +1,5 @@
+[caps]
+automationName = "UIAutomator2"
+platformName = "Android"
+deviceName = "<Nome emulador ou nome dispositivo físico Android>"
+app = "<caminho\\absoluto\\ate\\essa\\parte>\\testes-automatizados-mobile-training-wheels-protocol_ruby\\features\\app\\twp.apk"

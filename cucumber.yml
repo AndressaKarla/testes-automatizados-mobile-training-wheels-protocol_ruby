@@ -1,0 +1,4 @@
+default: -p pretty --publish-quiet -p html
+
+pretty: --format pretty
+html: --format html --out=relatorios/relatorio-mobile-training-wheels-protocol-ruby.html
