@@ -1,4 +1,5 @@
 relatorio-mobile-training-wheels-protocol-ruby.*
-android.txt
+features/support/desired_capabilities/*.android.txt
+!features/support/desired_capabilities/*.android.example.txt
 *.log
 Gemfile.lock
