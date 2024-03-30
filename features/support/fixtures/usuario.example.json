@@ -1,0 +1,7 @@
+{
+    "usuario": {
+        "email_valido": "informar-email-usuario-valido@dominio.com",
+        "senha_valida": "informar-senha-usuario-valido",
+        "senha_invalida_nao_cadastrada": "informar-senha-usuario-invalido-nao-cadastrada"
+    }
+}

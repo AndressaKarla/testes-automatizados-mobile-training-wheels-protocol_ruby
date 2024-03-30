@@ -1,5 +1,7 @@
+*.log
+Gemfile.lock
 relatorio-mobile-training-wheels-protocol-ruby.*
 features/support/desired_capabilities/*.android.txt
 !features/support/desired_capabilities/*.android.example.txt
-*.log
-Gemfile.lock
+features/support/fixtures/*.json
+!features/support/fixtures/*.example.json

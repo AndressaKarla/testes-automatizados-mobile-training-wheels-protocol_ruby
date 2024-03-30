@@ -1,6 +1,6 @@
 [caps]
 automationName = "UIAutomator2"
 platformName = "Android"
-deviceName = "Informar Nome Emulador ou Nome Dispositivo Físico Android"
+deviceName = "Informar-Nome-Emulador-ou-Nome-Dispositivo-Físico-Android"
 app = "./features/app/twp.apk"
 autoGrantPermissions = true

@@ -7,9 +7,9 @@ Dado('que eu esteja na tela Home AVENGERS') do
 end
 
 Quando('eu clicar no menu hamburguer') do
-    home_avengers.clicar_menu_hamburguer
+    componentes.clicar_menu_hamburguer
 end
 
-Então('deverá apresentar uma lista de opções de navegação') do
-    expect(home_avengers.listar_opcoes_navegacao.displayed?).to be true
+Então('deverá apresentar as opções de navegação') do
+    expect(componentes.apresentar_opcoes_navegacao.displayed?).to be true
 end

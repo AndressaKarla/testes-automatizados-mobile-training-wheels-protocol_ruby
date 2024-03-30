@@ -8,8 +8,8 @@ Funcionalidade: Tela Home AVENGERS - Menu hamburguer
 @home_menu
 Cenario: Validar clicar no menu hamburguer
 	Dado que eu acesse o aplicativo Training Wheels Protocol em um dispositivo mobile Android  
-	E que eu esteja na tela inicial QA Ninja Training Wheels Protocol Protocol Mobile Version
+	E que eu esteja na tela inicial QA Ninja Training Wheels Protocol Mobile Version
     E que eu clique no botão COMEÇAR
     E que eu esteja na tela Home AVENGERS
 	Quando eu clicar no menu hamburguer
-	Então deverá apresentar uma lista de opções de navegação
+	Então deverá apresentar as opções de navegação
