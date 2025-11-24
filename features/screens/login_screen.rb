@@ -7,6 +7,7 @@ class LoginScreen
         find_element(xpath: './/android.widget.EditText[@text="Email"]').send_keys(email)
         find_element(id: 'io.qaninja.android.twp:id/etPassword').send_keys(senha_secreta)
 
+        hide_keyboard
         find_element(xpath: './/android.widget.Button[@text="ENTRAR"]').click
     end
 

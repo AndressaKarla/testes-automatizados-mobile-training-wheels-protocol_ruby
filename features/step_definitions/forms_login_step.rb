@@ -3,7 +3,7 @@ Dado('que eu clique no menu hamburguer') do
 end
 
 Dado('que seja apresentada as opções de navegação') do
-    expect(componentes.apresentar_opcoes_navegacao.displayed?).to be true
+    expect(componentes.apresentar_lista_opcoes_navegacao.displayed?).to be true
 end
 
 Dado('que eu clique na opção FORMS') do
@@ -24,7 +24,7 @@ end
 
 Quando('eu informar os campos de {string} e {string} de um usuário') do |email, senha_secreta|
     @usuario_fixture = carregar_fixture('usuario')
-    login.realizar_login(@usuario_fixture['usuario'][email], @usuario_fixture['usuario'][senha_secreta])    
+    login.realizar_login(@usuario_fixture['usuario'][email], @usuario_fixture['usuario'][senha_secreta])
 end
 
 Então('na tela Login deverá apresentar a mensagem "{string}"') do |mensagem_esperada|

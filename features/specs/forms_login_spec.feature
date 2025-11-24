@@ -1,13 +1,13 @@
 # language: pt
 
 @login
-Funcionalidade: Tela FORMS - Opção LOGIN
-	Como usuário da Tela FORMS do aplicativo Training Wheels Protocol em um dispositivo mobile Android 
-	Quero clicar na opção LOGIN
+Funcionalidade: Forms - opção Login
+	Como usuário da tela Forms do aplicativo Training Wheels Protocol em um dispositivo mobile Android 
+	Quero acessar a opção Login
 	Para validar o comportamento da funcionalidade
 
 @login_usuarios
-Esquema do Cenario: Validar Login usuários válido e inválido 
+Esquema do Cenario: Login com usuários válido e inválido 
 	Dado que eu acesse o aplicativo Training Wheels Protocol em um dispositivo mobile Android  
 	E que eu esteja na tela inicial QA Ninja Training Wheels Protocol Mobile Version
     E que eu clique no botão COMEÇAR
