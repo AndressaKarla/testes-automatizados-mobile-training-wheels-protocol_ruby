@@ -1,6 +1,6 @@
-# Cenario: Validar clicar no botão COMEÇAR
-# Cenario: Validar clicar no menu hamburguer
-# Esquema do Cenario: Validar Login usuários válido e inválido
+# Cenario: Clicar em começar - Apresentar tela Home Avengers
+# Cenario: Clicar no menu hamburguer - Apresentar lista de opções de navegação
+# Esquema do Cenario: Login com usuários válido e inválido
 Dado('que eu acesse o aplicativo Training Wheels Protocol em um dispositivo mobile Android') do
 
 end
@@ -8,8 +8,3 @@ end
 Dado('que eu esteja na tela inicial QA Ninja Training Wheels Protocol Mobile Version') do
 
 end
-
-# Cenario: Validar clicar no botão COMEÇAR
-Quando('eu clicar no botão COMEÇAR') do                                        
-    tela_inicial.clicar_botao_comecar
-end 

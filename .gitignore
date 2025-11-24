@@ -1,6 +1,6 @@
 *.log
 Gemfile.lock
-relatorio-mobile-training-wheels-protocol-ruby.*
+*.html
 features/support/desired_capabilities/*.android.txt
 !features/support/desired_capabilities/*.android.example.txt
 features/support/fixtures/*.json

@@ -1,4 +1,4 @@
 default: -p pretty --publish-quiet -p html
 
 pretty: --format pretty
-html: --format html --out=relatorios/relatorio-mobile-training-wheels-protocol-ruby.html
+html: --format html --out=reports/ruby-appium-mobile-training-wheels-protocol-report-html.html
